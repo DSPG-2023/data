@@ -44,6 +44,8 @@ Data to share by the teams, CSV files.  Name files with table/variable name
   - "Race" = "B02001",
   - "Detailed Race" = "B02003"
   - "Sex by Age by Employment Status" = "B23001"
+  - B28010=Presence of a computer in household,county and tract, 2021 ACS5 
+  - B28011=Internet subscriptions in household ,county and tract, 2021 ACS5
 
 #### Housing
    - Dp04, county and tract, 2021 ACS5, "SELECTED HOUSING CHARACTERISTICS"
