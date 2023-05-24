@@ -46,20 +46,20 @@ Data to share by the teams, CSV files.  Name files with table/variable name
   - "Sex by Age by Employment Status" = "B23001"
 
 #### Housing
-   - Dp04, county and tract, 2021 ACS5
-   - S25107, county and tract, 2021 ACS5
-   - S2504, county and tract, 2021 ACS5
-   - B25008, county and tract, 2021 ACS5
-   - B25017, county and tract, 2021 ACS5
-   - B25024, county and tract, 2021 ACS5
-   - B25034, county and tract, 2021 ACS5
-   - B25036, county and tract, 2021 ACS5
-   - B25037, county and tract, 2021 ACS5
-   - B25041, county and tract, 2021 ACS5
-   - B25085, county and tract, 2021 ACS5
-   - B25107, county and tract, 2021 ACS5
-   - B25108, county and tract, 2021 ACS5
-   - B25110, county and tract, 2021 ACS5
-   - B25111, county and tract, 2021 ACS5
+   - Dp04, county and tract, 2021 ACS5, "SELECTED HOUSING CHARACTERISTICS"
+   - S2501, county and tract, 2021 ACS5, "OCCUPANCY CHARACTERISTICS"
+   - S2504, county and tract, 2021 ACS5, "PHYSICAL HOUSING CHARACTERISTICS FOR OCCUPIED HOUSING UNITS"
+   - B25008, county and tract, 2021 ACS5, "TOTAL POPULATION IN OCCUPIED HOUSING UNITS BY TENURE"
+   - B25017, county and tract, 2021 ACS5, "ROOMS"
+   - B25024, county and tract, 2021 ACS5, "UNITS IN STRUCTURE"
+   - B25034, county and tract, 2021 ACS5, "YEAR STRUCTURE BUILT"
+   - B25036, county and tract, 2021 ACS5, "TENURE BY YEAR STRUCTURE BUILT"
+   - B25037, county and tract, 2021 ACS5, "MEDIAN YEAR STRUCTURE BUILT BY TENURE"
+   - B25041, county and tract, 2021 ACS5, "BEDROOMS"
+   - B25085, county and tract, 2021 ACS5, "PRICE ASKED"
+   - B25107, county and tract, 2021 ACS5, "MEDIAN VALUE BY YEAR STRUCTURE BUILT"
+   - B25108, county and tract, 2021 ACS5, "AGGREGATE VALUE (DOLLARS) BY YEAR STRUCTURE BUILT"
+   - B25110, county and tract, 2021 ACS5, "AGGREGATE VALUE (DOLLARS) BY YEAR HOUSEHOLDER MOVED INTO UNIT"
+   - B25111, county and tract, 2021 ACS5, "MEDIAN GROSS RENT BY YEAR STRUCTURE BUILT"
 
 Keep adding to this list  - if it is italic, then it is in progress!
