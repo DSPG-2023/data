@@ -45,4 +45,21 @@ Data to share by the teams, CSV files.  Name files with table/variable name
   - "Detailed Race" = "B02003"
   - "Sex by Age by Employment Status" = "B23001"
 
+#### Housing
+   - Dp04
+   - S25107
+   - S2504
+   - B25008
+   - B25017
+   - B25024
+   - B25034
+   - B25036
+   - B25037
+   - B25041
+   - B25085
+   - B25107
+   - B25108
+   - B25110
+   - B25111
+
 Keep adding to this list  - if it is italic, then it is in progress!
