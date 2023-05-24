@@ -46,20 +46,20 @@ Data to share by the teams, CSV files.  Name files with table/variable name
   - "Sex by Age by Employment Status" = "B23001"
 
 #### Housing
-   - Dp04
-   - S25107
-   - S2504
-   - B25008
-   - B25017
-   - B25024
-   - B25034
-   - B25036
-   - B25037
-   - B25041
-   - B25085
-   - B25107
-   - B25108
-   - B25110
-   - B25111
+   - Dp04, county and tract, 2021 ACS5
+   - S25107, county and tract, 2021 ACS5
+   - S2504, county and tract, 2021 ACS5
+   - B25008, county and tract, 2021 ACS5
+   - B25017, county and tract, 2021 ACS5
+   - B25024, county and tract, 2021 ACS5
+   - B25034, county and tract, 2021 ACS5
+   - B25036, county and tract, 2021 ACS5
+   - B25037, county and tract, 2021 ACS5
+   - B25041, county and tract, 2021 ACS5
+   - B25085, county and tract, 2021 ACS5
+   - B25107, county and tract, 2021 ACS5
+   - B25108, county and tract, 2021 ACS5
+   - B25110, county and tract, 2021 ACS5
+   - B25111, county and tract, 2021 ACS5
 
 Keep adding to this list  - if it is italic, then it is in progress!
