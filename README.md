@@ -6,7 +6,7 @@ Data to share by the teams, CSV files.  Name files with table/variable name
 
 
 #### Language Spoken
-- *TBD, County and Tract, 2021 ACS5, All languages spoken in Iowa, Professor Seeger*
+- *C16001, County and Tract, 2021 ACS5, All languages spoken in Iowa, Professor Seeger*
   - "Speak only English" = "C16001_002",
   - "Spanish" = "C16001_003", 
   - "French, Haitian, or Cajun" = "C16001_006", 
