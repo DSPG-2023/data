@@ -22,7 +22,27 @@ Data to share by the teams, CSV files.  Name files with table/variable name
   - "Other and unspecified languages" = "C16001_036"
 
 
-#### Other Topic
+#### Income/Earnings
+  - "Median Household Income" = "B19013",
+  - "Median Family Income" = "B19113",
+  - "Median Nonfamliy Household Income" = "B19202",
+  - "Earnings for Households" = "B19051",
+  - "Public Assistance Income for Food Stamps/SNAP for Households",
+  - "Social Security Income for Households" = "B19055" ,
+  - "Number of Earners in a Family" = "B19122",
+  
+#### Transportation
+  - "Travel Time to Work" = "B08303",
+  - "Means of Transportation to Work by Travel Time to Work" = "B08134",
+  - "Place of Work for Workers 16 Years and Over--Micropolitan Statistical Area Level" = "B08017",
+  - "Place of Work for Workers 16 Years and Over--not Metropolitan or Micropolitan Statistical Area Level" = "B08018"
+  
+  
 
+
+#### Other Topic
+  - "Race" = "B02001",
+  - "Detailed Race" = "B02003"
+  - "Sex by Age by Employment Status" = "B23001"
 
 Keep adding to this list  - if it is italic, then it is in progress!
