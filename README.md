@@ -52,9 +52,12 @@ Data to share by the teams, CSV files. Name files with table/variable name
 #### Housing
 
 -   Dp04, county and tract, 2021 ACS5, "SELECTED HOUSING CHARACTERISTICS"
--   *S2501, county and tract, 2021 ACS5, "OCCUPANCY CHARACTERISTICS", Angelina Evans*
+-   S2501, county and tract, 2021 ACS5, "OCCUPANCY CHARACTERISTICS"
 -   S2504, county and tract, 2021 ACS5, "PHYSICAL HOUSING CHARACTERISTICS FOR OCCUPIED HOUSING UNITS"
--   B25008, county and tract, 2021 ACS5, "TOTAL POPULATION IN OCCUPIED HOUSING UNITS BY TENURE"
+-   *B25008, county and tract, 2021 ACS5, Total Population in Occupied Housing Units by Tenure, Angelina Evans*
+    - B25008_001 =
+    - B25008_002 =
+    - B25008_003 =
 -   B25017, county and tract, 2021 ACS5, "ROOMS"
 -   B25024, county and tract, 2021 ACS5, "UNITS IN STRUCTURE"
 -   B25034, county and tract, 2021 ACS5, "YEAR STRUCTURE BUILT"
