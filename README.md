@@ -6,7 +6,7 @@ Data to share by the teams, CSV files.  Name files with table/variable name
 
 
 #### Language Spoken
-* *TBD, Tract, 2021 ACS5, All languages spoken in Iowa, Professor Seeger*
+- *TBD, Tract, 2021 ACS5, All languages spoken in Iowa, Professor Seeger*
  * "Speak only English" = "C16001_002",
  * "Spanish" = "C16001_003", 
  * "French, Haitian, or Cajun" = "C16001_006", 
@@ -20,7 +20,7 @@ Data to share by the teams, CSV files.  Name files with table/variable name
  * "Other Asian and Pacific Island languages" = "C16001_030",
  * "Arabic" = "C16001_033",
  * "Other and unspecified languages" = "C16001_036"
-* *TBD, County, 2021 ACS5, All languages spoken in Iowa, Professor Seeger*
+- *TBD, County, 2021 ACS5, All languages spoken in Iowa, Professor Seeger*
 
 #### Other Topic
 
