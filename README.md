@@ -2,6 +2,6 @@
 Data to share by the teams, CSV files.  Name files with table/variable name
 
 
-**Table ID, Geography, Description, Collected by who**
+**Table ID, Geography, Type (ACS5, Decennial) Description, Collected by who**
 
 Add to this list ...
