@@ -51,23 +51,20 @@ Data to share by the teams, CSV files. Name files with table/variable name
 
 #### Housing
 
--   Dp04, county and tract, 2021 ACS5, "SELECTED HOUSING CHARACTERISTICS"
--  * S2501, county and tract, 2021 ACS5, "OCCUPANCY CHARACTERISTICS"*
--  *S2504, county and tract, 2021 ACS5, "PHYSICAL HOUSING CHARACTERISTICS FOR OCCUPIED HOUSING UNITS"*
--   B25008, county and tract, 2021 ACS5, Total Population in Occupied Housing Units by Tenure, Angelina Evans
-    - B25008_001 
-    - B25008_002 
-    - B25008_003 
+-   Dp04, county and tract, 2021 ACS5, Selected Housing Characteristics *holding off on this for now*
+-   S2501, county and tract, 2021 ACS5, Occupancy Characteristics, Angelina Evans
+-   S2504, county and tract, 2021 ACS5, Physical Housing Characteristics for Occupied Housing Units, Angelina Evans
+-   B25008, county and tract, 2021 ACS5, Total Population in Occupied Housing Units by Tenure, Angelina Evans 
 -   B25017, county and tract, 2021 ACS5, Rooms, Angelina Evans
 -   B25024, county and tract, 2021 ACS5, Units in Structure, Angelina Evans
 -   B25034, county and tract, 2021 ACS5, Year Structure Built, Angelina Evans
 -   B25036, county and tract, 2021 ACS5, Tenure by Year Structure Built, Angelina Evans
--   B25037, county and tract, 2021 ACS5, "MEDIAN YEAR STRUCTURE BUILT BY TENURE"
--   B25041, county and tract, 2021 ACS5, "BEDROOMS"
--   B25085, county and tract, 2021 ACS5, "PRICE ASKED"
--   B25107, county and tract, 2021 ACS5, "MEDIAN VALUE BY YEAR STRUCTURE BUILT"
--   B25108, county and tract, 2021 ACS5, "AGGREGATE VALUE (DOLLARS) BY YEAR STRUCTURE BUILT"
--   B25110, county and tract, 2021 ACS5, "AGGREGATE VALUE (DOLLARS) BY YEAR HOUSEHOLDER MOVED INTO UNIT"
--   B25111, county and tract, 2021 ACS5, "MEDIAN GROSS RENT BY YEAR STRUCTURE BUILT"
+-   B25037, county and tract, 2021 ACS5, Median Year Structure Built by Tenure
+-   B25041, county and tract, 2021 ACS5, Bedrooms
+-   B25085, county and tract, 2021 ACS5, Price Asked
+-   B25107, county and tract, 2021 ACS5, Median value by year structure built
+-   B25108, county and tract, 2021 ACS5, Aggregate Value (Dollars) by Year Structure Built
+-   B25110, county and tract, 2021 ACS5, Aggregate value (Dollars) by Year Housholder Moved Into Unit
+-   B25111, county and tract, 2021 ACS5, Median Gross Rent by Year Structure Built 
 
 Keep adding to this list - if it is italic, then it is in progress!
