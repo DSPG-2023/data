@@ -23,7 +23,7 @@ Data to share by the teams, CSV files. Name files with table/variable name
 
 #### Income/Earnings
 
--   "Median Household Income" = "B19013",
+-   *"Median Household Income" = "B19013", Aaron N*,
 -   "Median Family Income" = "B19113",
 -   "Median Nonfamliy Household Income" = "B19202",
 -   "Earnings for Households" = "B19051",
@@ -54,7 +54,7 @@ Data to share by the teams, CSV files. Name files with table/variable name
 -   Dp04, county and tract, 2021 ACS5, Selected Housing Characteristics *holding off on this for now*
 -   S2501, county and tract, 2021 ACS5, Occupancy Characteristics, Angelina Evans
 -   S2504, county and tract, 2021 ACS5, Physical Housing Characteristics for Occupied Housing Units, Angelina Evans
--   B25008, county and tract, 2021 ACS5, Total Population in Occupied Housing Units by Tenure, Angelina Evans 
+-   B25008, county and tract, 2021 ACS5, Total Population in Occupied Housing Units by Tenure, Angelina Evans
 -   B25017, county and tract, 2021 ACS5, Rooms, Angelina Evans
 -   B25024, county and tract, 2021 ACS5, Units in Structure, Angelina Evans
 -   B25034, county and tract, 2021 ACS5, Year Structure Built, Angelina Evans
@@ -65,6 +65,6 @@ Data to share by the teams, CSV files. Name files with table/variable name
 -   B25107, county and tract, 2021 ACS5, Median value by year structure built
 -   B25108, county and tract, 2021 ACS5, Aggregate Value (Dollars) by Year Structure Built
 -   B25110, county and tract, 2021 ACS5, Aggregate value (Dollars) by Year Housholder Moved Into Unit
--   B25111, county and tract, 2021 ACS5, Median Gross Rent by Year Structure Built 
+-   B25111, county and tract, 2021 ACS5, Median Gross Rent by Year Structure Built
 
 Keep adding to this list - if it is italic, then it is in progress!
