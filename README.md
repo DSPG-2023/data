@@ -59,12 +59,12 @@ Data to share by the teams, CSV files. Name files with table/variable name
 -   B25024, county and tract, 2021 ACS5, Units in Structure, Angelina Evans
 -   B25034, county and tract, 2021 ACS5, Year Structure Built, Angelina Evans
 -   B25036, county and tract, 2021 ACS5, Tenure by Year Structure Built, Angelina Evans
--   B25037, county and tract, 2021 ACS5, Median Year Structure Built by Tenure
--   B25041, county and tract, 2021 ACS5, Bedrooms
--   B25085, county and tract, 2021 ACS5, Price Asked
--   B25107, county and tract, 2021 ACS5, Median value by year structure built
--   B25108, county and tract, 2021 ACS5, Aggregate Value (Dollars) by Year Structure Built
--   B25110, county and tract, 2021 ACS5, Aggregate value (Dollars) by Year Housholder Moved Into Unit
--   B25111, county and tract, 2021 ACS5, Median Gross Rent by Year Structure Built
+-   B25037, county and tract, 2021 ACS5, Median Year Structure Built by Tenure, Gavin Fisher
+-   B25041, county and tract, 2021 ACS5, Bedrooms, Gavin Fisher
+-   B25085, county and tract, 2021 ACS5, Price Asked, Gavin Fisher
+-   B25107, county and tract, 2021 ACS5, Median value by year structure built, Gavin Fisher
+-   B25108, county and tract, 2021 ACS5, Aggregate Value (Dollars) by Year Structure Built, Gavin Fisher
+-   B25110, county and tract, 2021 ACS5, Aggregate value (Dollars) by Year Housholder Moved Into Unit, Gavin Fisher
+-   B25111, county and tract, 2021 ACS5, Median Gross Rent by Year Structure Built, Gavin Fisher
 
 Keep adding to this list - if it is italic, then it is in progress!
