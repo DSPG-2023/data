@@ -33,7 +33,7 @@ Data to share by the teams, CSV files. Name files with table/variable name
 
 #### Transportation
 
--   "Travel Time to Work" = "B08303",
+-   "Travel Time to Work" = "B08303", Aaron Null (Completed)
 
 -   "Means of Transportation to Work" = "B08301", County, 2009 - 2021, ACS5, means of transportation to work (car, bus etc.), Aaron Null (*completed*)
 
