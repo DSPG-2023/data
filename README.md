@@ -23,7 +23,7 @@ Data to share by the teams, CSV files. Name files with table/variable name
 
 #### Income/Earnings
 
--   *"Median Household Income" = "B19013", Aaron N*,
+-   "Median Household Income" = "B19013", Aaron N (completed),
 -   "Median Family Income" = "B19113",
 -   "Median Nonfamliy Household Income" = "B19202",
 -   "Earnings for Households" = "B19051",
